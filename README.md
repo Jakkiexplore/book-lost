@@ -52,11 +52,11 @@ This challenge was about refactoring a GraphQL API built with Apollo Server. Thi
 ## screenshots of code!
 ![code inserted](./Develop/client/assets/book.png)
 ## Links
-[render](https://book-lost-1.onrender.com)
-[Github repo](https://github.com/Jakkiexplore/book-lost)
+* [render](https://book-lost-1.onrender.com)
+* [Github repo](https://github.com/Jakkiexplore/book-lost)
 
 ## Contact me
-[Email](yangjakki@gmail.com)
+* [Email](yangjakki@gmail.com)
 
 ## License
 N/A
