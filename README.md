@@ -5,9 +5,9 @@ MERN Challenge: Book Search Engine
 This challenge was about refactoring a GraphQL API built with Apollo Server. This Google Books API is fully working and basically all we have to do is us GraphQL queries and mutations to get the data!
 
 ## User Story
-AS AN avid reader
-I WANT to search for new books to read
-SO THAT I can keep a list of books to purchase
+*AS AN avid reader
+*I WANT to search for new books to read
+*SO THAT I can keep a list of books to purchase
 
 
 ## Acceptance Criteria
@@ -46,8 +46,11 @@ SO THAT I can keep a list of books to purchase
 * [acceptance criteria](#acceptancecriteria)
 * [links](#links)
 * [Contact](#contacts)
+* [Screenshot](#screenshot)
 
 
+## screenshots of code!
+![code inserted](./Develop/client/assets/book.png)
 ## Links
 [render](https://book-lost-1.onrender.com)
 [Github repo](https://github.com/Jakkiexplore/book-lost)
